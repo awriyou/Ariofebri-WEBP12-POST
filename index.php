@@ -40,10 +40,7 @@
         <label for="jenisk">Laki-laki</label>
         <input type="radio" name="jenisk" value="Perempuan">
         <label for="jenisk">Perempuan</label>
-        <!-- <select name="jk">
-                <option value="Male">Laki-Laki</option>
-                <option value="Female">Perempuan</option>
-            </select> -->
+
         <br>
 
         <label>Tanggal Lahir:</label>
